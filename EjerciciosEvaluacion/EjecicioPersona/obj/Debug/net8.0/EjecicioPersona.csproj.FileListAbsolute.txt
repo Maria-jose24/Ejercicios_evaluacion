@@ -1,0 +1,14 @@
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\bin\Debug\net8.0\EjecicioPersona.exe
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\bin\Debug\net8.0\EjecicioPersona.deps.json
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\bin\Debug\net8.0\EjecicioPersona.runtimeconfig.json
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\bin\Debug\net8.0\EjecicioPersona.dll
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\bin\Debug\net8.0\EjecicioPersona.pdb
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\obj\Debug\net8.0\EjecicioPersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\obj\Debug\net8.0\EjecicioPersona.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\obj\Debug\net8.0\EjecicioPersona.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\obj\Debug\net8.0\EjecicioPersona.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\obj\Debug\net8.0\EjecicioPersona.dll
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\obj\Debug\net8.0\refint\EjecicioPersona.dll
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\obj\Debug\net8.0\EjecicioPersona.pdb
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\obj\Debug\net8.0\EjecicioPersona.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\obj\Debug\net8.0\ref\EjecicioPersona.dll

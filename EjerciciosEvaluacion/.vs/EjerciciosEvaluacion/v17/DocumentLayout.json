@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\Ejercicios_evaluacion\\EjerciciosEvaluacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88C9BA5E-74A6-4AA4-99F2-0176C4327966}|EjecicioPersona\\EjecicioPersona.csproj|c:\\users\\usuario\\downloads\\ejercicios_evaluacion\\ejerciciosevaluacion\\ejeciciopersona\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C9BA5E-74A6-4AA4-99F2-0176C4327966}|EjecicioPersona\\EjecicioPersona.csproj|solutionrelative:ejeciciopersona\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C9BA5E-74A6-4AA4-99F2-0176C4327966}|EjecicioPersona\\EjecicioPersona.csproj|c:\\users\\usuario\\downloads\\ejercicios_evaluacion\\ejerciciosevaluacion\\ejeciciopersona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C9BA5E-74A6-4AA4-99F2-0176C4327966}|EjecicioPersona\\EjecicioPersona.csproj|solutionrelative:ejeciciopersona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Ejercicios_evaluacion\\EjerciciosEvaluacion\\EjecicioPersona\\Empleado.cs",
+              "RelativeDocumentMoniker": "EjecicioPersona\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Ejercicios_evaluacion\\EjerciciosEvaluacion\\EjecicioPersona\\Empleado.cs",
+              "RelativeToolTip": "EjecicioPersona\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:34:27.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Ejercicios_evaluacion\\EjerciciosEvaluacion\\EjecicioPersona\\Persona.cs",
+              "RelativeDocumentMoniker": "EjecicioPersona\\Persona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Ejercicios_evaluacion\\EjerciciosEvaluacion\\EjecicioPersona\\Persona.cs",
+              "RelativeToolTip": "EjecicioPersona\\Persona.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwCIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:23:51.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
