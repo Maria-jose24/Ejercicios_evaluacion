@@ -12,3 +12,4 @@ C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPe
 C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\obj\Debug\net8.0\EjecicioPersona.pdb
 C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\obj\Debug\net8.0\EjecicioPersona.genruntimeconfig.cache
 C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\obj\Debug\net8.0\ref\EjecicioPersona.dll
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\EjecicioPersona\obj\Debug\net8.0\EjecicioPersona.sourcelink.json
