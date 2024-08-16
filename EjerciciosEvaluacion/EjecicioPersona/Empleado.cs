@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 
 namespace EjecicioPersona
 {
@@ -26,7 +27,7 @@ namespace EjecicioPersona
         public new void MostrarInformacion(int diasTrabajados)
         {
             base.MostrarInformacion();
-            Console.WriteLine($"Salario por {diasTrabajados} días trabajados: {CalcularSalario(diasTrabajados)}");
+            Console.WriteLine($"Salario por {diasTrabajados} días trabajados: {CalcularSalario(diasTrabajados):C}");
         }
     }
 
@@ -76,7 +77,10 @@ namespace EjecicioPersona
             while (true)
             {
                 Console.WriteLine("Ingrese el salario base del empleado:");
-                if (decimal.TryParse(Console.ReadLine(), out salario) && salario >= 0)
+                string salarioInput = Console.ReadLine();
+
+                // Verifica que la entrada no esté vacía y que sea un número decimal válido
+                if (decimal.TryParse(salarioInput, out salario) && salario >= 0)
                 {
                     break;
                 }
