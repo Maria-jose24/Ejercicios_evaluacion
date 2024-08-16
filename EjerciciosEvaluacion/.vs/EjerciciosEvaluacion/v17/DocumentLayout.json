@@ -13,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{88C9BA5E-74A6-4AA4-99F2-0176C4327966}|EjecicioPersona\\EjecicioPersona.csproj|c:\\users\\usuario\\downloads\\ejercicios_evaluacion\\ejerciciosevaluacion\\ejeciciopersona\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C9BA5E-74A6-4AA4-99F2-0176C4327966}|EjecicioPersona\\EjecicioPersona.csproj|solutionrelative:ejeciciopersona\\icalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D62FAB39-A283-41DB-9DA1-0268E9F731D8}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\usuario\\downloads\\ejercicios_evaluacion\\ejerciciosevaluacion\\principiosolid\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D62FAB39-A283-41DB-9DA1-0268E9F731D8}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,9 +32,9 @@
               "RelativeDocumentMoniker": "EjecicioPersona\\Empleado.cs",
               "ToolTip": "C:\\Users\\Usuario\\Downloads\\Ejercicios_evaluacion\\EjerciciosEvaluacion\\EjecicioPersona\\Empleado.cs",
               "RelativeToolTip": "EjecicioPersona\\Empleado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAgwHsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T21:33:28.483Z",
+              "WhenOpened": "2024-08-16T21:37:06.377Z",
               "EditorCaption": ""
             },
             {
@@ -49,7 +45,7 @@
               "RelativeDocumentMoniker": "EjecicioPersona\\Persona.cs",
               "ToolTip": "C:\\Users\\Usuario\\Downloads\\Ejercicios_evaluacion\\EjerciciosEvaluacion\\EjecicioPersona\\Persona.cs",
               "RelativeToolTip": "EjecicioPersona\\Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T21:29:31.938Z",
               "EditorCaption": ""
@@ -62,21 +58,10 @@
               "RelativeDocumentMoniker": "EjecicioPersona\\ICalculable.cs",
               "ToolTip": "C:\\Users\\Usuario\\Downloads\\Ejercicios_evaluacion\\EjerciciosEvaluacion\\EjecicioPersona\\ICalculable.cs",
               "RelativeToolTip": "EjecicioPersona\\ICalculable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T21:29:30.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Ejercicios_evaluacion\\EjerciciosEvaluacion\\PrincipioSolid\\Empleado.cs",
-              "RelativeDocumentMoniker": "PrincipioSolid\\Empleado.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Ejercicios_evaluacion\\EjerciciosEvaluacion\\PrincipioSolid\\Empleado.cs",
-              "RelativeToolTip": "PrincipioSolid\\Empleado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T21:23:58.055Z"
+              "WhenOpened": "2024-08-16T21:29:30.449Z",
+              "EditorCaption": ""
             }
           ]
         }
