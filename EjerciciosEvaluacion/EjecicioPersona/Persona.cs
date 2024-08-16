@@ -24,9 +24,9 @@ namespace EjecicioPersona
         //Constructor sin parámetros que asigne valores predeterminados a los atributos
         public Persona()
         {
-            Nombre = "Sin nombre";
+            Nombre = "";
             Edad = 0;
-            Direccion = "Sin dirección";
+            Direccion = "";
 
         }
         //Metodo para mostrar la informacón de la persona
@@ -36,12 +36,21 @@ namespace EjecicioPersona
             Console.WriteLine($"Edad: {Edad}");
             Console.WriteLine($"Direccion: {Direccion}");
         }
-        // Método asincrónico que simula una operación de lectura de datos
-        public async Task LeerDatosAsync()
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
         {
-            Console.WriteLine("Simulando la lectura de datos...");
-            await Task.Delay(2000); // Simula un retardo de 2 segundos
-            Console.WriteLine("Lectura de datos completada.");
+            Empleado empleado1 = new Empleado("Maria", 18, "Campoalegre", 1300000.0m);
+            Console.WriteLine("Información del empleado 1:");
+            empleado1.MostrarInformacion(15);//dias trabajados
+
+            Console.WriteLine();
+
+            Empleado empleado2 = new Empleado();
+            Console.WriteLine("Información del empleado 2:");
+            empleado2.MostrarInformacion(0);
         }
     }
 }

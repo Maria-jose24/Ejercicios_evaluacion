@@ -14,29 +14,30 @@ namespace EjecicioPersona
     {
         //Atributo adicional Salario
         public decimal Salario { get; set; }
-
+        
         public Empleado(string nombre, int edad, string direccion, decimal salario)
             : base(nombre, edad, direccion)
         {
             Salario = salario;
         }
 
-        public Empleado() : base()
+        public Empleado()
+            : base()
         {
             //M indica que es un decimal
             Salario = 0.0m;
         }
 
         // Implementación del método CalcularSalario de la interfaz ICalculable
-        public decimal CalcularSalario()
+        public decimal CalcularSalario(int diasTrabajados)
         {
-            return Salario;
+            return (Salario/30) * diasTrabajados;
         }
 
-        public override void MostrarInformacion()
+        public new void MostrarInformacion(int diasTrabajados)
         {
             base.MostrarInformacion();
-            Console.WriteLine($"Salario: {Salario:C}");
+            Console.WriteLine($"Salario por {diasTrabajados} días trabajados: {CalcularSalario(diasTrabajados)}");
         }
     }
 }
