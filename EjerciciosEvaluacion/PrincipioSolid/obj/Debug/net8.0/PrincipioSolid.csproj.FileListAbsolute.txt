@@ -1,0 +1,15 @@
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\obj\Debug\net8.0\PrincipioSolid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\obj\Debug\net8.0\PrincipioSolid.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\obj\Debug\net8.0\PrincipioSolid.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\obj\Debug\net8.0\PrincipioSolid.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\obj\Debug\net8.0\PrincipioSolid.sourcelink.json
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\bin\Debug\net8.0\PrincipioSolid.exe
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\bin\Debug\net8.0\PrincipioSolid.deps.json
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\bin\Debug\net8.0\PrincipioSolid.runtimeconfig.json
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\bin\Debug\net8.0\PrincipioSolid.dll
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\bin\Debug\net8.0\PrincipioSolid.pdb
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\obj\Debug\net8.0\PrincipioSolid.dll
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\obj\Debug\net8.0\refint\PrincipioSolid.dll
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\obj\Debug\net8.0\PrincipioSolid.pdb
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\obj\Debug\net8.0\PrincipioSolid.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Ejercicios_evaluacion\EjerciciosEvaluacion\PrincipioSolid\obj\Debug\net8.0\ref\PrincipioSolid.dll
