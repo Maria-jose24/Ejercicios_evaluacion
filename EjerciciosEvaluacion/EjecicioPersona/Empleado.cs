@@ -9,7 +9,7 @@ namespace EjecicioPersona
     //Clase Empleado que herede de Persona e incluya un
     //atributo adicional Salario. Sobreescribe el método
     //para mostrar la información, incluyendo el salario
-    public class Empleado : Persona
+    public class Empleado : Persona, ICalculable
 
     {
         //Atributo adicional Salario
@@ -27,13 +27,16 @@ namespace EjecicioPersona
             Salario = 0.0m;
         }
 
-        public new void MostrarInformacion()
+        // Implementación del método CalcularSalario de la interfaz ICalculable
+        public decimal CalcularSalario()
+        {
+            return Salario;
+        }
+
+        public override void MostrarInformacion()
         {
             base.MostrarInformacion();
-            Console.WriteLine($"Salario: {Salario}");
+            Console.WriteLine($"Salario: {Salario:C}");
         }
     }
 }
-
-          
-       
